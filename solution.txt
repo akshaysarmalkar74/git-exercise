@@ -1,0 +1,11 @@
+git init - To initialise a repo
+git status - To check status of repo
+git add <fileName> - To add file/s to staging area
+git commit -m <message> - To make a commit
+git diff - To check difference
+git remote add <name> <url> - To add a remote
+git push -u <remote> <branch> - To push changes to remote repo
+git branch <name> - To create a branch
+git switch <name> - To switch to a branch
+git merge <name> - To merge a branch
+git clone <url> - To clone a repo
